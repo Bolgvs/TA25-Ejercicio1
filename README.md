@@ -1,13 +1,13 @@
 # TA25-Ejercicio1
 
-Articulos
+Articulos  
 GET       /api/articulos  
 POST      /api/articulos  
 GET       /api/articulos/{codigo}  
 PUT       /api/articulos/{codigo}  
 DELETE    /api/articulos/{codigo}  
 
-Fabricantes
+Fabricantes  
 GET       /api/fabricantes  
 POST      /api/fabricantes  
 GET       /api/fabricantes/{codigo}  
